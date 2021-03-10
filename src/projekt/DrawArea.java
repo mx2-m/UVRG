@@ -60,6 +60,7 @@ public class DrawArea extends JComponent {
                                 oldY = 0;
                             }
                         }
+
                     }
                     break;
 
